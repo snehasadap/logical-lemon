@@ -1,4 +1,4 @@
 # logical-lemon
 ## Demonstration
-## Installation Requirements
+## Libraries/Frameworks
 ## Setup
