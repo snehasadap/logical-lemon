@@ -1,0 +1,24 @@
+/* Title.css */
+
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap" rel="stylesheet");
+
+.silkscreen-regular {
+    font-family: "Silkscreen, sans-serif";
+    font-weight: 400px;
+    font-style: normal;
+  }
+.title {
+  font-family: "Silkscreen, sans-serif";
+  font-size: 4rem;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  font-weight: 400;
+}
+
+.title span:first-child {
+    color: #9470CE;
+  }
+  
+  .title span:last-child {
+    color: #F4E064;
+  }
