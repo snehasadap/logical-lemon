@@ -1,4 +1,5 @@
 # logical-lemon
 ## Demonstration
 ## Libraries/Frameworks
-## Setup
+## Instructions
+### Setting up your React environment
