@@ -1,5 +1,5 @@
 # logical-lemon
-## Libraries/Frameworks
+## Installation Requirements
 ## Instructions
 ### Setting up your React environment
 ## Additional Notes
