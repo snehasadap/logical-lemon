@@ -6,7 +6,7 @@
      ```sh
       npx create-react-app logicallemon
       ```
-  2.  Check that your app configured successfully by verifying that the following files are present in your directory:
+  2.  Check that your app has been configured successfully by verifying that the following files are present in your directory:
      
       <img width="149" alt="Screenshot 2024-06-29 at 1 14 29 PM" src="https://github.com/snehasadap/logical-lemon/assets/104543929/98736d3f-8ade-4182-8625-7f24b8bdb746">
       
