@@ -2,7 +2,7 @@
 ## Prerequisites
   * [Node](https://nodejs.org/en)
 ## Setup
-  1. To create the React environment, run the following command in your terminal:
+  1. To create your React environment, run the following command in your terminal:
      ```sh
       npx create-react-app logicallemon
       ```
