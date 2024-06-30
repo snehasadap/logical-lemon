@@ -27,5 +27,14 @@
      ```sh
       npm i d3
       ```
-  8. 
+  8. Build your code
+     ```sh
+      npm run build
+      ```
+  9. Run your code
+     ```sh
+      npm start
+      ```
+     You should see your code running at http://localhost:5003
+     
 ## Additional Notes
