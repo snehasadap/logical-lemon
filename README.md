@@ -1,6 +1,6 @@
 # logical-lemon
 ## Prerequisites
-  * [Node.js](https://nodejs.org/en)
+  * [Node.js](https://nodejs.org/en) (to run npm command)
 ## Setup
   1. To create your React environment, run the following command in your terminal:
      ```sh
