@@ -35,6 +35,6 @@
      ```sh
       npm start
       ```
-     You should see your code running at http://localhost:5003
+     Launch server at http://localhost:5003
      
 ## Additional Notes
