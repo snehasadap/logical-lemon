@@ -108,7 +108,6 @@ const GraphTheory = () => {
   };
 
   useEffect(() => {
-    // Clear existing SVG content
     d3.select(graphRef.current).selectAll('*').remove();
 
     if (graphData.nodes.length > 0) {
@@ -151,8 +150,8 @@ const GraphTheory = () => {
         .attr('width', 50)
         .attr('height', 50)
         .attr('fill', d => colorScale(d.id))
-        .attr('x', -25) // Center the rectangle
-        .attr('y', -25); // Center the rectangle
+        .attr('x', -25) 
+        .attr('y', -25); 
 
       nodeGroup.append('text')
         .attr('text-anchor', 'middle')
@@ -199,7 +198,7 @@ const GraphTheory = () => {
         d.fy = null;
       }
     }
-  }, [graphData]);
+  }, [graphData];
 
   return (
     <Container>
