@@ -9,7 +9,6 @@ const Header = styled.h2`
 
 const GraphTheoryPage = () => {
   const handleSimplify = (simplifiedExpression) => {
-    // Handle any additional logic here if needed
     console.log('Simplified Expression:', simplifiedExpression);
   };
 
