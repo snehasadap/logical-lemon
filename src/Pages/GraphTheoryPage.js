@@ -1,9 +1,6 @@
-// BooleanAlgebraPage.js
-
 import React from 'react';
 import GraphTheory from '../Topics/GraphTheory';
 import styled from 'styled-components';
-/*import '../sections/BooleanAlgebra.css'; */
 
 const Header = styled.h2`
   color: rgb(222, 156, 13);
