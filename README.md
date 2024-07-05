@@ -27,11 +27,11 @@
      ```sh
       npm i d3
       ```
-  8. Build your code
+  8. Build simulator
      ```sh
       npm run build
       ```
-  9. Run your code
+  9. Run simulator
      ```sh
       npm start
       ```
